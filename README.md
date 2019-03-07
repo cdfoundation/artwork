@@ -4,7 +4,7 @@
 
 <img src="/jenkins/horizontal/color/jenkins-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/jenkins/stacked/color/jenkins-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/jenkins/icon/color/jenkins-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/jenkinsx/horizontal/color/jenkinsx-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/jenkinsx/stacked/color/jenkinsx-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/jenkinsx/icon/color/jenkinsx-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/jenkinsx/horizontal/color/jenkinsx-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/jenkinsx/stacked/color/jenkinsx-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/jenkinsx/icon/color/jenkinsx-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/spinnaker/horizontal/color/spinnaker-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/spinnaker/stacked/color/spinnaker-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/spinnaker/icon/color/spinnaker-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
