@@ -1,5 +1,7 @@
 # CD.foundation Artwork and Logos
 
+In this repo, we have artwork in standard formats for the CD.foundation projects and programs. We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 18 versions of most logos.
+
 <img src="/cdf/horizontal/color/cdf-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cdf/stacked/color/cdf-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/cdf/icon/color/cdf-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/jenkins/horizontal/color/jenkins-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/jenkins/stacked/color/jenkins-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/jenkins/icon/color/jenkins-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
