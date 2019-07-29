@@ -2,7 +2,7 @@
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
-#### CD.Foundation Logos
+#### CDF Logos
 
 <table>
     <tr>
@@ -249,4 +249,4 @@
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
-Questions? Please email [info@cdfoundation.io](mailto:info@cdfoundation.io).
+Questions? Please email [info@cd.foundation](mailto:info@cd.foundation).
