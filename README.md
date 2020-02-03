@@ -249,4 +249,6 @@
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
+Attribution: Source of Jenkins artwork https://jenkins.io/artwork/
+
 Questions? Please email [info@cd.foundation](mailto:info@cd.foundation).
