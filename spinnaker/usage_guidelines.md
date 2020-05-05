@@ -1,6 +1,6 @@
 # Spinnaker Branding Guidelines
 
-These guidelines provide you with guidance for using the CDF logo.
+These guidelines provide you with guidance for using the Spinnaker logo.
 All artwork is made available under the Linux Foundation trademark usage
 [guidelines](https://www.linuxfoundation.org/trademark-usage/). This text from
 those guidelines, and the correct and incorrect usage examples, are particularly
