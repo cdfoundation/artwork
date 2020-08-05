@@ -247,6 +247,28 @@
     </tr>
 </table>
 
+## Standard footer for CDF websites
+
+For convenience, projects may use the following footer for project sites. If you have any questions, please contact [operations@cd.foundation](mailto:operations@cd.foundation).
+
+### HTML
+
+```html
+&copy; The Linux Foundation&reg;. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks.
+For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/trademark-usage" target="_blank">Trademark Usage page</a>.
+Linux is a registered trademark of Linus Torvalds. <a href="https://www.linuxfoundation.org/privacy/" target="_blank">Privacy Policy</a> and <a href="https://www.linuxfoundation.org/terms/" target="_blank">Terms of Use</a>.
+```
+
+### Markdown
+
+```markdown
+© The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks.
+For a list of trademarks of The Linux Foundation, please see our [Trademark Usage page](https://www.linuxfoundation.org/trademark-usage).
+Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://www.linuxfoundation.org/privacy/) and [Terms of Use](https://www.linuxfoundation.org/terms/).
+```
+
+---
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Attribution: Source of Jenkins artwork https://jenkins.io/artwork/
