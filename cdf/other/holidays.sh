@@ -68,3 +68,6 @@ while true; do
     }
     k=$((k % 2 + 1))
 done
+
+
+derived from https://github.com/sergiolepore/ChristBASHTree
