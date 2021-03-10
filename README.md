@@ -184,7 +184,7 @@
         <td><img src="/ortelius/stacked/black/ortelius-stacked-black.png" width="95"></td>
         <td><img src="/ortelius/icon/black/ortelius-icon-black.png" width="75"></td>
         <td><img src="/ortelius/horizontal/black/ortelius-horizontal-black.svg" width="200"></td>
-        <td><img src="/ortelius/stacked/blackortelius-stacked-black.svg" width="95"></td>
+        <td><img src="/ortelius/stacked/black/ortelius-stacked-black.svg" width="95"></td>
         <td><img src="/ortelius/icon/black/ortelius-icon-black.svg" width="75"></td>
     </tr>
     <tr>
