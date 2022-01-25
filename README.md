@@ -297,6 +297,55 @@
     </tr>
 </table>
 
+#### cdevents Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/cdevents/horizontal/color/cdevents_horizontal-color.png" width="200"></td>
+        <td><img src="/cdevents/stacked/color/cdevents_stacked-color.png" width="95"></td>
+        <td><img src="/cdevents/icon/color/cdevents_icon-color.png" width="75"></td>
+        <td><img src="/cdevents/horizontal/color/cdevents_horizontal-color.svg" width="200"></td>
+        <td><img src="/cdevents/stacked/color/cdevents_stacked-color.svg" width="95"></td>
+        <td><img src="/cdevents/icon/color/cdevents_icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/cdevents/horizontal/black/cdevents_horizontal-black.png" width="200"></td>
+        <td><img src="/cdevents/stacked/black/cdevents_stacked-black.png" width="95"></td>
+        <td><img src="/cdevents/icon/black/cdevents_icon-black.png" width="75"></td>
+        <td><img src="/cdevents/horizontal/black/cdevents_horizontal-black.svg" width="200"></td>
+        <td><img src="/cdevents/stacked/black/cdevents_stacked-black.svg" width="95"></td>
+        <td><img src="/cdevents/icon/black/cdevents_icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/cdevents/horizontal/white/cdevents_horizontal-white.png" width="200"></td>
+        <td><img src="/cdevents/stacked/white/cdevents_stacked-white.png" width="95"></td>
+        <td><img src="/cdevents/icon/white/cdevents_icon-white.png" width="75"></td>
+        <td><img src="/cdevents/horizontal/white/cdevents_horizontal-white.svg" width="200"></td>
+        <td><img src="/cdevents/stacked/white/cdevents_stacked-white.svg" width="95"></td>
+        <td><img src="/cdevents/icon/white/cdevents_icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 ## Standard footer for CDF websites
 
 For convenience, projects may use the following footer for project sites. If you have any questions, please contact [operations@cd.foundation](mailto:operations@cd.foundation).
