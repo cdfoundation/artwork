@@ -1,6 +1,7 @@
 # Member Logos
 
-* Place member logos in this directory
-* the structure of the folder should be `/members/<member_name>/
-* each member should upload a .PNG and .SVG version of their logo
-* It is also preferred that a horizontal and stacked versions are included in color, black, and white alternatives
+Are available for download on the [CDF Landscape](https://landscape.cd.foundation/) or [CDF Member Page](https://cd.foundation/members/).
+
+# Member Badges
+
+The CDF Member Badges can only be used by current members of the Continuous Delivery Foundation, as listed here: https://cd.foundation/members/
