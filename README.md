@@ -51,6 +51,55 @@
     </tr>
 </table>
 
+#### CDEvents Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/cdevents/horizontal/color/cdevents_horizontal-color.png" width="200"></td>
+        <td><img src="/cdevents/stacked/color/cdevents_stacked-color.png" width="95"></td>
+        <td><img src="/cdevents/icon/color/cdevents_icon-color.png" width="75"></td>
+        <td><img src="/cdevents/horizontal/color/cdevents_horizontal-color.svg" width="200"></td>
+        <td><img src="/cdevents/stacked/color/cdevents_stacked-color.svg" width="95"></td>
+        <td><img src="/cdevents/icon/color/cdevents_icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/cdevents/horizontal/black/cdevents_horizontal-black.png" width="200"></td>
+        <td><img src="/cdevents/stacked/black/cdevents_stacked-black.png" width="95"></td>
+        <td><img src="/cdevents/icon/black/cdevents_icon-black.png" width="75"></td>
+        <td><img src="/cdevents/horizontal/black/cdevents_horizontal-black.svg" width="200"></td>
+        <td><img src="/cdevents/stacked/black/cdevents_stacked-black.svg" width="95"></td>
+        <td><img src="/cdevents/icon/black/cdevents_icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/cdevents/horizontal/white/cdevents_horizontal-white.png" width="200"></td>
+        <td><img src="/cdevents/stacked/white/cdevents_stacked-white.png" width="95"></td>
+        <td><img src="/cdevents/icon/white/cdevents_icon-white.png" width="75"></td>
+        <td><img src="/cdevents/horizontal/white/cdevents_horizontal-white.svg" width="200"></td>
+        <td><img src="/cdevents/stacked/white/cdevents_stacked-white.svg" width="95"></td>
+        <td><img src="/cdevents/icon/white/cdevents_icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Jenkins Logos
 
 <table>
@@ -122,30 +171,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/jenkinsx/horizontal/color/jenkinsx-horizontal-color.png" width="200"></td>
-        <td><img src="/jenkinsx/stacked/color/jenkinsx-stacked-color.png" width="95"></td>
-        <td><img src="/jenkinsx/icon/color/jenkinsx-icon-color.png" width="75"></td>
-        <td><img src="/jenkinsx/horizontal/color/jenkinsx-horizontal-color.svg" width="200"></td>
-        <td><img src="/jenkinsx/stacked/color/jenkinsx-stacked-color.svg" width="95"></td>
-        <td><img src="/jenkinsx/icon/color/jenkinsx-icon-color.svg" width="75"></td>
+        <td><img src="/jayex/horizontal/color/jayex_horizontal_color.png" width="200"></td>
+        <td><img src="/jayex/stacked/color/jayex_stacked_color.png" width="95"></td>
+        <td><img src="/jayex/icon/color/jayex_icon_color.png" width="75"></td>
+        <td><img src="/jayex/horizontal/color/jayex_horizontal_color.svg" width="200"></td>
+        <td><img src="/jayex/stacked/color/jayex_stacked_color.svg" width="95"></td>
+        <td><img src="/jayex/icon/color/jayex_icon_color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/jenkinsx/horizontal/black/jenkinsx-horizontal-black.png" width="200"></td>
-        <td><img src="/jenkinsx/stacked/black/jenkinsx-stacked-black.png" width="95"></td>
-        <td><img src="/jenkinsx/icon/black/jenkinsx-icon-black.png" width="75"></td>
-        <td><img src="/jenkinsx/horizontal/black/jenkinsx-horizontal-black.svg" width="200"></td>
-        <td><img src="/jenkinsx/stacked/black/jenkinsx-stacked-black.svg" width="95"></td>
-        <td><img src="/jenkinsx/icon/black/jenkinsx-icon-black.svg" width="75"></td>
+        <td><img src="/jayex/horizontal/black/jayex_horizontal_black.png" width="200"></td>
+        <td><img src="/jayex/stacked/black/jayex_stacked_black.png" width="95"></td>
+        <td><img src="/jayex/icon/black/jayex_icon_black.png" width="75"></td>
+        <td><img src="/jayex/horizontal/black/jayex_horizontal_black.svg" width="200"></td>
+        <td><img src="/jayex/stacked/black/jayex_stacked_black.svg" width="95"></td>
+        <td><img src="/jayex/icon/black/jayex_icon_black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/jenkinsx/horizontal/white/jenkinsx-horizontal-white.png" width="200"></td>
-        <td><img src="/jenkinsx/stacked/white/jenkinsx-stacked-white.png" width="95"></td>
-        <td><img src="/jenkinsx/icon/white/jenkinsx-icon-white.png" width="75"></td>
-        <td><img src="/jenkinsx/horizontal/white/jenkinsx-horizontal-white.svg" width="200"></td>
-        <td><img src="/jenkinsx/stacked/white/jenkinsx-stacked-white.svg" width="95"></td>
-        <td><img src="/jenkinsx/icon/white/jenkinsx-icon-white.svg" width="75"></td>
+        <td><img src="/jayex/horizontal/white/jayex_horizontal_white.png" width="200"></td>
+        <td><img src="/jayex/stacked/white/jayex_stacked_white.png" width="95"></td>
+        <td><img src="/jayex/icon/white/jayex_icon_white.png" width="75"></td>
+        <td><img src="/jayex/horizontal/white/jayex_horizontal_white.svg" width="200"></td>
+        <td><img src="/jayex/stacked/white/jayex_stacked_white.svg" width="95"></td>
+        <td><img src="/jayex/icon/white/jayex_icon_white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -296,103 +345,6 @@
     </tr>
 </table>
 
-#### Tekton Logos
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/tekton/horizontal/color/tekton-horizontal-color.png" width="200"></td>
-        <td><img src="/tekton/stacked/color/tekton-stacked-color.png" width="95"></td>
-        <td><img src="/tekton/icon/color/tekton-icon-color.png" width="75"></td>
-        <td><img src="/tekton/horizontal/color/tekton-horizontal-color.svg" width="200"></td>
-        <td><img src="/tekton/stacked/color/tekton-stacked-color.svg" width="95"></td>
-        <td><img src="/tekton/icon/color/tekton-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/tekton/horizontal/black/tekton-horizontal-black.png" width="200"></td>
-        <td><img src="/tekton/stacked/black/tekton-stacked-black.png" width="95"></td>
-        <td><img src="/tekton/icon/black/tekton-icon-black.png" width="75"></td>
-        <td><img src="/tekton/horizontal/black/tekton-horizontal-black.svg" width="200"></td>
-        <td><img src="/tekton/stacked/black/tekton-stacked-black.svg" width="95"></td>
-        <td><img src="/tekton/icon/black/tekton-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/tekton/horizontal/white/tekton-horizontal-white.png" width="200"></td>
-        <td><img src="/tekton/stacked/white/tekton-stacked-white.png" width="95"></td>
-        <td><img src="/tekton/icon/white/tekton-icon-white.png" width="75"></td>
-        <td><img src="/tekton/horizontal/white/tekton-horizontal-white.svg" width="200"></td>
-        <td><img src="/tekton/stacked/white/tekton-stacked-white.svg" width="95"></td>
-        <td><img src="/tekton/icon/white/tekton-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### CDEvents Logos
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/cdevents/horizontal/color/cdevents_horizontal-color.png" width="200"></td>
-        <td><img src="/cdevents/stacked/color/cdevents_stacked-color.png" width="95"></td>
-        <td><img src="/cdevents/icon/color/cdevents_icon-color.png" width="75"></td>
-        <td><img src="/cdevents/horizontal/color/cdevents_horizontal-color.svg" width="200"></td>
-        <td><img src="/cdevents/stacked/color/cdevents_stacked-color.svg" width="95"></td>
-        <td><img src="/cdevents/icon/color/cdevents_icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/cdevents/horizontal/black/cdevents_horizontal-black.png" width="200"></td>
-        <td><img src="/cdevents/stacked/black/cdevents_stacked-black.png" width="95"></td>
-        <td><img src="/cdevents/icon/black/cdevents_icon-black.png" width="75"></td>
-        <td><img src="/cdevents/horizontal/black/cdevents_horizontal-black.svg" width="200"></td>
-        <td><img src="/cdevents/stacked/black/cdevents_stacked-black.svg" width="95"></td>
-        <td><img src="/cdevents/icon/black/cdevents_icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/cdevents/horizontal/white/cdevents_horizontal-white.png" width="200"></td>
-        <td><img src="/cdevents/stacked/white/cdevents_stacked-white.png" width="95"></td>
-        <td><img src="/cdevents/icon/white/cdevents_icon-white.png" width="75"></td>
-        <td><img src="/cdevents/horizontal/white/cdevents_horizontal-white.svg" width="200"></td>
-        <td><img src="/cdevents/stacked/white/cdevents_stacked-white.svg" width="95"></td>
-        <td><img src="/cdevents/icon/white/cdevents_icon-white.svg" width="75"></td>
-    </tr>
-</table>
 
 ## Standard footer for CDF websites
 
